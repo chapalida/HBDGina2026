@@ -26,6 +26,7 @@ body {
     border-radius: 10px;
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
     text-align: center;
+    font-size: 24px;
 }
 
 .image-container {
@@ -64,6 +65,7 @@ body {
     position: absolute;
     z-index: 10;
     border: 1px solid #d4c9b0;
+    font-size: 24px;
 }
 
 .hotspot:hover + .tooltip-text {
